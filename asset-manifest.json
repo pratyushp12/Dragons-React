@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Dragons-React/static/css/main.d46a8fac.chunk.css",
+    "main.js": "/Dragons-React/static/js/main.7063687d.chunk.js",
+    "main.js.map": "/Dragons-React/static/js/main.7063687d.chunk.js.map",
+    "runtime-main.js": "/Dragons-React/static/js/runtime-main.252c8d07.js",
+    "runtime-main.js.map": "/Dragons-React/static/js/runtime-main.252c8d07.js.map",
+    "static/js/2.b9a48924.chunk.js": "/Dragons-React/static/js/2.b9a48924.chunk.js",
+    "static/js/2.b9a48924.chunk.js.map": "/Dragons-React/static/js/2.b9a48924.chunk.js.map",
+    "static/js/3.333e87a6.chunk.js": "/Dragons-React/static/js/3.333e87a6.chunk.js",
+    "static/js/3.333e87a6.chunk.js.map": "/Dragons-React/static/js/3.333e87a6.chunk.js.map",
+    "index.html": "/Dragons-React/index.html",
+    "static/css/main.d46a8fac.chunk.css.map": "/Dragons-React/static/css/main.d46a8fac.chunk.css.map",
+    "static/js/2.b9a48924.chunk.js.LICENSE.txt": "/Dragons-React/static/js/2.b9a48924.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.252c8d07.js",
+    "static/js/2.b9a48924.chunk.js",
+    "static/css/main.d46a8fac.chunk.css",
+    "static/js/main.7063687d.chunk.js"
+  ]
+}
